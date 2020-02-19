@@ -3,11 +3,11 @@
 {
     'name': 'Stock MTS+MTO Rule',
     'summary': 'Add a MTS+MTO route',
-    'version': '12.0.1.0.1',
+    'version': '13.0.1.0.1',
     'development_status': 'Mature',
     'category': 'Warehouse',
     'website': 'https://github.com/OCA/stock-logistics-warehouse',
-    'author': 'Akretion,Odoo Community Association (OCA)',
+    'author': 'Akretion,Odoo Community Association (OCA),SmartSpace',
     'license': 'AGPL-3',
     'application': False,
     'installable': True,
